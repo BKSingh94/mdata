@@ -7,4 +7,5 @@
 5>Xiomi
 6>Samsung
 7>Nokia
+8>Honor
 
